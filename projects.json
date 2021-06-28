@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Peak Financial",
+        "live": "https://mystifying-montalcini-373ea5.netlify.app/",
+        "git": "https://github.com/MaximPVladimirovich/Project1PeakFinancial",
+        "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+        "name": "Somatic",
+        "live": "https://somatica.herokuapp.com",
+        "git": "https://github.com/MaximPVladimirovich/Somatic",
+        "image": "http://www.imgur.com/pictureofproject.png"
+    }
+]
